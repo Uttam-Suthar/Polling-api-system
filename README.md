@@ -25,8 +25,7 @@ To install all the dependences of the project, run the following command:
 
 
 #### Deployment Link:
- - Link : https://polling-api-system.vercel.app/
-
+ - Link : polling-api-system-git-main-crickets-projects.vercel.app
 
 
 <p align="center">
