@@ -17,7 +17,7 @@ To install all the dependences of the project, run the following command:
 
     git clone 
     npm install
-    npm start
+    npm run dev
 
 
 #### Source Code:
